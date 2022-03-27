@@ -1,16 +1,22 @@
-# weather_app
+# Weather app
 
-A new Flutter application.
+**Screenshot**
 
-## Getting Started
+<p align="center"><img src="screenshots/weather-app1.jpg" width="25%"/><img src="screenshots/weather-app3.jpg"  width="25%"/><img src="screenshots/weather-app2.jpg" width="25%" /></p>
 
-This project is a starting point for a Flutter application.
+**Requirements**
+- Location Access
+- Internet connection
+- Storage requirement < 30mb
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+**Highlights**
+- Use [OpenWeatherMap] API
+- Beautiful Ui across screens
+- Cross Platform
+- Geo-location based weather fetching
+- Manual search for weather update of a particular city
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Author**
+<a href="https://github.com/vineetk242000" style="text-decoration:none">Vineet Kumar</a>
+
